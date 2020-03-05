@@ -1,17 +1,7 @@
 # Hello_World
-First post
-Hello all,
 
-This is pretty cool.
-
-
-
-
-
-
-
-
-
-
-
+**A.) Name of Project: **
+**B.) Explanations  **
+**C.) Additional Documents **
+**D.) Files Used **
 
